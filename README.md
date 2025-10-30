@@ -1,5 +1,7 @@
-## You are viewing the page of an aspiring Entrepreneurial Data Scientist and what he gets up to on a day-to-day basis. Enjoy :)
+ ##Hello, 
+ #I am Samee Shahid a; student, entreprenurial, data scientist from Newcastle
 ---------------------
+
 
 
 
