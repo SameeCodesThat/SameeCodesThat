@@ -1,5 +1,5 @@
- ##Hello, 
- #I am Samee Shahid a; student, entreprenurial, data scientist from Newcastle
+##Hello
+#I am Samee Shahid a; student, entreprenurial, data scientist from Newcastle
 ---------------------
 
 
