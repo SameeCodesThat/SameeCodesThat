@@ -1,4 +1,8 @@
-## Hi there 👋
+## You are viewing the page of an aspiring Entrepreneurial Data Scientist and what he gets up to on a day-to-day basis. Enjoy :)
+---------------------
+
+
+
 
 <!--
 **SameeCodesThat/SameeCodesThat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
